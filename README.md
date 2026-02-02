@@ -2,6 +2,11 @@
 <p>Nosso primeiro projeto com CSS no SENAI, tendo como objetivo explorar a linguagem de estilização.</p>
 <b>Foram utilizados apenas HTML e CSS</b>
 
+## 🌐 Acesso
+- [Nosso Projeto](https://edgomes234.github.io/Sistema-Solar/)
+
+
+
 ## ⚙️ Sobre/Funcionalidades
 <b>O projeto é interativo, tendo:</b>
 
@@ -16,8 +21,5 @@
 - Gustavo Machado
 - Alexis Daniel
 - Renan Trindade
-
-## 🌐 Acesso
-- [Nosso Projeto](https://edgomes234.github.io/Sistema-Solar/)
 
 
